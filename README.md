@@ -1,8 +1,10 @@
 # Pharmaceutical Industry Analysis 
 
 <div id="header" align="center">
-  <img src="https://www.bing.com/images/search?view=detailV2&ccid=1YYzj5aQ&id=118CEC03EE541F6A1579A050F885B2D404AEA44D&thid=OIP.1YYzj5aQnYP4qVzKXSXUQgHaEH&mediaurl=https%3a%2f%2fwww.healthncure.org%2fwp-content%2fuploads%2f2015%2f12%2fSome-Pharmaceutical-Drugs-and-their-Uses.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d586338f96909d83f8a95cca5d25d442%3frik%3dTaSuBNSyhfhQoA%26pid%3dImgRaw%26r%3d0%26sres%3d1%26sresct%3d1%26srh%3d723%26srw%3d1300&exph=445&expw=800&q=Pharmaceutical+Pictures&simid=608022448881957961&FORM=IRPRST&ck=23133653A84AA66120158FA9C140FEEE&selectedIndex=8&ajaxhist=0&ajaxserp=0" />  
+  <img src="https://www.healthncure.org/wp-content/uploads/2015/12/Some-Pharmaceutical-Drugs-and-their-Uses.jpg" />  
 </div>
+
+--
 
 ## Intoduction 
 The pharmaceutical industry is known by rapid advancement in research and development and constant pursuit of innovative solutions to address global health challenges. In this context my analysis seeks to provide valuable insight and analyzing the key performance indicator (KPI) of the pharmacy while communicating the trends or pattern in sales and target of the suppliers
