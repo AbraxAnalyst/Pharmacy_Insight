@@ -4,6 +4,9 @@
   <img src="https://www.healthncure.org/wp-content/uploads/2015/12/Some-Pharmaceutical-Drugs-and-their-Uses.jpg" />  
 </div>
 
+
+
+[Interact with Dashboard](https://app.powerbi.com/links/jgQJAghtLB?ctid=27777323-512a-4384-a252-e0f0e9033f1f&pbi_source=linkShare&bookmarkGuid=46093dfa-63dc-4aed-a6cc-fd6fa08ea9ee)
 --
 
 ## Intoduction 
@@ -85,6 +88,9 @@ After having a good exploratory analysis on the dataset, the important KPIs were
 
 **Marketing  Dashboard**
 ![](MarketingBoard.PNG)
+
+[Interact with Dashboard](https://app.powerbi.com/links/jgQJAghtLB?ctid=27777323-512a-4384-a252-e0f0e9033f1f&pbi_source=linkShare&bookmarkGuid=46093dfa-63dc-4aed-a6cc-fd6fa08ea9ee)
+
 
 
 
